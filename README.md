@@ -23,27 +23,27 @@ Here are some glimpses of FluxPay in action:
 
 ### Homepage / Landing
 The initial landing page highlighting the core functionalities and login options.
-![Home Page](.\screenshots\homePage.png)
+![Home Page](./screenshots/homePage.png)
 
 
 ### User Login
 Simple and secure login for users to access their personalized dashboard.
-![User Login](.\screenshots\userLogin.png)
+![User Login](./screenshots/userLogin.png)
 
 
 ### User Dashboard
 Users can view their current plan details, status, and billing history.
-![User Dashboard](.\screenshots\userDashboard.png)
+![User Dashboard](./screenshots/userDashboard.png)
 
 
 ### Admin Login
 Dedicated login interface for administrators to manage the platform.
-![AdminLogin](.\screenshots\adminLogin.png)
+![AdminLogin](./screenshots/adminLogin.png)
 
 
 ### Admin Dashboard
 A quick overview for administrators, showing key metrics and quick links.
-![Admin Dashboard](.\screenshots\adminDashboard.png)
+![Admin Dashboard](./screenshots/adminDashboard.png)
 
 ---
 
