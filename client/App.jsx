@@ -33,9 +33,9 @@ const writeVar = (name, value) => {
 
 // Demo defaults (overridden by runtime window.<var>)
 const defaultUsers = [
-  { id: "u_1", role: "user", name: "Ava Stone", email: "ganeshkaithoju@gmail.com", password: "ganesh123" },
+  { id: "u_1", role: "user", name: "Ava Stone", email: "ganeshkaithoju@gmail.com", password: "Ganesh111" },
   { id: "u_2", role: "user", name: "Liam Park", email: "ganesh@gmail.com", password: "ganesh123" },
-  { id: "a_1", role: "admin", name: "Admin One", email: "ganesg@fluxpay.com", password: "ganiflux11" },
+  { id: "a_1", role: "admin", name: "Admin One", email: "ganesh@fluxpay.com", password: "ganiflux11" },
 ];
 const defaultPlans = [
   { id: "basic", name: "Basic", price: 9, interval: "mo", description: "For individuals just getting started", features: ["1 project", "Email support"], popular: false },
